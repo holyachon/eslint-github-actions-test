@@ -1,0 +1,13 @@
+{
+  "name": "eslint-github-actions",
+  "version": "1.0.0",
+  "description": "ESLint GitHub Actions 연습 프로젝트",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+} 
